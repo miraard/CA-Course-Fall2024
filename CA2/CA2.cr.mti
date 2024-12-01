@@ -1,0 +1,87 @@
+C:/Users/simin/Desktop/CA/CAs/CA2/ALU.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/ALU.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module ALU
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/imm_extend.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/imm_extend.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module imm_extend
+
+Top level modules:
+	imm_extend
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/PC.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/PC.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/datapath.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/datapath.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module data_path
+
+Top level modules:
+	data_path
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/adder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/adder.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module adder
+-- Compiling module multiplexer_2to1
+-- Compiling module multiplexer_4to1
+
+Top level modules:
+	adder
+	multiplexer_2to1
+	multiplexer_4to1
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/Controller.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/Controller.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/inst_mem.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/inst_mem.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/data_mem.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\simin\Desktop\CA\CAs\CA2\data_mem.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/Processor.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/Processor.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module processor
+-- Compiling module tbP
+
+Top level modules:
+	processor
+	tbP
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/memory.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/memory.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module memory
+-- Compiling module memory_tb
+
+Top level modules:
+	memory_tb
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA2/file_reg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA2/file_reg.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module file_reg
+-- Compiling module file_reg_tb
+
+Top level modules:
+	file_reg_tb
+
+} {} {}}

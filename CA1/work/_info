@@ -1,0 +1,495 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vadder
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1730575216
+!i10b 1
+!s100 TZPoab]JUej>Izf?ODQ6;2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+II^T_;2il^05gRFG_6AD`M2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/simin/Desktop/CA/CAs/CA1
+Z5 w1730575202
+Z6 8C:/Users/simin/Desktop/CA/CAs/CA1/Equations_&_Registers.sv
+Z7 FC:/Users/simin/Desktop/CA/CAs/CA1/Equations_&_Registers.sv
+!i122 81
+L0 45 7
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1730575216.000000
+Z10 !s107 C:/Users/simin/Desktop/CA/CAs/CA1/Equations_&_Registers.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/simin/Desktop/CA/CAs/CA1/Equations_&_Registers.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vcalculator
+R0
+R1
+!i10b 1
+!s100 H]zTQ1g7]0bZ4oBjQ[=T10
+R2
+I6Ri7zdbBVeHV>=0WHN_lC2
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 81
+L0 63 21
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vdatapath
+R0
+Z14 !s110 1730582573
+!i10b 1
+!s100 5d@=HF]I10L5eQY5M<bNl2
+R2
+I`gQJ6PmmX^GhFGjb19^;E0
+R3
+S1
+R4
+Z15 w1730571249
+Z16 8C:\Users\simin\Desktop\CA\CAs\CA1\Datapath.sv
+Z17 FC:\Users\simin\Desktop\CA\CAs\CA1\Datapath.sv
+!i122 204
+L0 1 53
+R8
+r1
+!s85 0
+31
+Z18 !s108 1730582573.000000
+Z19 !s107 C:\Users\simin\Desktop\CA\CAs\CA1\Datapath.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\simin\Desktop\CA\CAs\CA1\Datapath.sv|
+!i113 1
+R12
+R13
+vdatapath_tb
+R0
+R14
+!i10b 1
+!s100 PN><8eHUB[MPzTl=WIJ@S2
+R2
+Ih;1^HP=_9?^V_kma@5f6k3
+R3
+S1
+R4
+R15
+R16
+R17
+!i122 204
+L0 56 73
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+R13
+vEightQueensController
+R0
+R14
+!i10b 1
+!s100 5^gIH<mWizU`]MF?K8B3X1
+R2
+I6A]GB[Ko;CCKD8L8n=JiM0
+R3
+S1
+R4
+Z21 w1730536326
+Z22 8C:/intelFPGA/20.1/Controller.sv
+Z23 FC:/intelFPGA/20.1/Controller.sv
+!i122 205
+L0 1 78
+R8
+r1
+!s85 0
+31
+R18
+Z24 !s107 C:/intelFPGA/20.1/Controller.sv|
+Z25 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/Controller.sv|
+!i113 1
+R12
+R13
+n@eight@queens@controller
+vEightQueensControllerTestbench
+R0
+R14
+!i10b 1
+!s100 h208?PC:;PGQca>85J`?22
+R2
+IUNnM_EQM05m7@hO5Pi3<@0
+R3
+S1
+R4
+R21
+R22
+R23
+!i122 205
+L0 81 49
+R8
+r1
+!s85 0
+31
+R18
+R24
+R25
+!i113 1
+R12
+R13
+n@eight@queens@controller@testbench
+vEightQueensDataPath
+R0
+Z26 !s110 1730539755
+!i10b 1
+!s100 @hdcR1<ji3HF[=@Nn2QUU3
+R2
+I5E8]5]59Y]d[GLcBC]KlP2
+R3
+S1
+R4
+Z27 w1730536273
+Z28 8C:/Users/simin/Desktop/CA/CAs/CA1/Datapath.sv
+Z29 FC:/Users/simin/Desktop/CA/CAs/CA1/Datapath.sv
+!i122 20
+L0 2 42
+R8
+r1
+!s85 0
+31
+Z30 !s108 1730539755.000000
+Z31 !s107 C:/Users/simin/Desktop/CA/CAs/CA1/Datapath.sv|
+Z32 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/simin/Desktop/CA/CAs/CA1/Datapath.sv|
+!i113 1
+R12
+R13
+n@eight@queens@data@path
+vEightQueensDataPathTestbench
+R0
+R26
+!i10b 1
+!s100 `X`z]N;=Mo?BZgFI5gZ^S1
+R2
+IOo4LXV;V?<MWcb<icaIlg0
+R3
+S1
+R4
+R27
+R28
+R29
+!i122 20
+L0 46 79
+R8
+r1
+!s85 0
+31
+R30
+R31
+R32
+!i113 1
+R12
+R13
+n@eight@queens@data@path@testbench
+vEightQueensSolver
+R0
+R14
+!i10b 1
+!s100 gFVD8>A81=2@A4Y3G8iPa3
+R2
+IoP]jlIV>>S2OMACXHVAn[0
+R3
+S1
+R4
+w1730536249
+8C:/Users/simin/Desktop/CA/CAs/CA1/TopLevel.sv
+FC:/Users/simin/Desktop/CA/CAs/CA1/TopLevel.sv
+!i122 207
+L0 1 35
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/simin/Desktop/CA/CAs/CA1/TopLevel.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/simin/Desktop/CA/CAs/CA1/TopLevel.sv|
+!i113 1
+R12
+R13
+n@eight@queens@solver
+vIsSafe
+R0
+R1
+!i10b 1
+!s100 ^lMF3iLA4j=SV6ARUcZQg2
+R2
+IflMCM3z3mmzoP9T9D`8Pe3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 81
+L0 86 30
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@is@safe
+visSafeChecker
+R0
+Z33 !s110 1730536367
+!i10b 1
+!s100 4:EdR8JN0X2MZlIbT>PjK2
+R2
+I`c]gz:628d3`hGB`XYQJj1
+R3
+S1
+R4
+Z34 w1730535832
+Z35 8C:/Users/simin/Desktop/CA/CAs/CA1/isSafeChecker.sv
+Z36 FC:/Users/simin/Desktop/CA/CAs/CA1/isSafeChecker.sv
+!i122 10
+L0 2 21
+R8
+r1
+!s85 0
+31
+Z37 !s108 1730536367.000000
+Z38 !s107 C:/Users/simin/Desktop/CA/CAs/CA1/isSafeChecker.sv|
+Z39 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/simin/Desktop/CA/CAs/CA1/isSafeChecker.sv|
+!i113 1
+R12
+R13
+nis@safe@checker
+visSafeChecker_tb
+R0
+R33
+!i10b 1
+!s100 d:>4A;jHS8z;7<J1`ZX8R0
+R2
+IKHFNJ@LzBSjfj9Li];g_;3
+R3
+S1
+R4
+R34
+R35
+R36
+!i122 10
+L0 24 90
+R8
+r1
+!s85 0
+31
+R37
+R38
+R39
+!i113 1
+R12
+R13
+nis@safe@checker_tb
+vlocation_initializer
+R0
+R14
+!i10b 1
+!s100 oUVVE6GKCUV@lJVQ=:0j]0
+R2
+I1l5R;_7:3i?e>^jgj8Thi2
+R3
+S1
+R4
+Z40 w1730582524
+R6
+R7
+!i122 208
+L0 41 26
+R8
+r1
+!s85 0
+31
+R18
+R10
+R11
+!i113 1
+R12
+R13
+vlocation_initializer_tb
+R0
+R14
+!i10b 1
+!s100 [2I7ie@I;T_jiV3fbG2Vg2
+R2
+IN0QB7l<0UO8Q@F;<G0B;<2
+R3
+S1
+R4
+R40
+R6
+R7
+!i122 208
+L0 69 38
+R8
+r1
+!s85 0
+31
+R18
+R10
+R11
+!i113 1
+R12
+R13
+vmultiplier
+R0
+R1
+!i10b 1
+!s100 OO69_CPzz]86ARm@lXWf23
+R2
+II<leYW^@gJaVGFV?<NT_P3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 81
+L0 54 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vNQueens
+R0
+R14
+!i10b 1
+!s100 ^Z7P8<IF6^hPd6C9d2VzS0
+R2
+IIoJCMl23]GdAQTMR:FIUm2
+R3
+S1
+R4
+w1730539726
+R35
+R36
+!i122 206
+L0 2 95
+R8
+r1
+!s85 0
+31
+R18
+R38
+R39
+!i113 1
+R12
+R13
+n@n@queens
+vrandom_pi_generator
+R0
+R14
+!i10b 1
+!s100 OInU8Wf8Je:HLZLzL`JOS0
+R2
+IMJW[K7j=6hAZhca:KfI;J0
+R3
+S1
+R4
+R40
+R6
+R7
+!i122 208
+L0 1 37
+R8
+r1
+!s85 0
+31
+R18
+R10
+R11
+!i113 1
+R12
+R13
+vreg3
+R0
+R1
+!i10b 1
+!s100 ^jE_7<L0NDPD1DnmEFcXb3
+R2
+Il4XQa6jGbBO2La6Lj=O_z3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 81
+L0 1 21
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vreg8
+R0
+R1
+!i10b 1
+!s100 `CB4CVOgRefK2Q_fLSKGH3
+R2
+I5B<NmkmMo`hC^[L_Q>99a3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 81
+L0 23 21
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13

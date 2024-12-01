@@ -1,0 +1,102 @@
+# Compile of adder.sv was successful.
+# Compile of ALU.sv was successful.
+# Compile of adder.sv was successful with warnings.
+# Compile of ALU.sv was successful.
+# Compile of Controller.sv was successful.
+# Compile of datapath.sv was successful.
+# Compile of adder.sv was successful.
+# Compile of ALU.sv was successful.
+# Compile of Controller.sv was successful.
+# Compile of datapath.sv was successful.
+# Compile of file_reg.sv was successful.
+# Compile of imm_extend.sv was successful.
+# Compile of inst_mem.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of PC.sv was successful.
+# Compile of Processor.sv was successful.
+# 10 compiles, 0 failed with no errors.
+# Compile of file_reg.sv was successful.
+# Compile of imm_extend.sv was successful.
+# Compile of inst_mem.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of PC.sv was successful.
+# Compile of Processor.sv was successful.
+# 10 compiles, 0 failed with no errors.
+# Compile of Controller.sv was successful.
+# Compile of datapath.sv was successful.
+# Compile of file_reg.sv was successful.
+# Compile of imm_extend.sv was successful.
+# Compile of inst_mem.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of PC.sv was successful.
+# Compile of Processor.sv was successful.
+# 10 compiles, 0 failed with no errors.
+# Compile of adder.sv was successful.
+# Compile of ALU.sv was successful.
+# Compile of Controller.sv was successful.
+# Compile of datapath.sv was successful.
+# Compile of file_reg.sv was successful.
+# Compile of imm_extend.sv was successful.
+# Compile of inst_mem.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of PC.sv was successful.
+# Compile of Processor.sv was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui work.file_reg_tb
+# vsim -gui work.file_reg_tb 
+# Start time: 14:23:46 on Nov 30,2024
+# Loading sv_std.std
+# Loading work.file_reg_tb
+# Loading work.file_reg
+add wave -position insertpoint  \
+sim:/file_reg_tb/clk \
+sim:/file_reg_tb/rst \
+sim:/file_reg_tb/A1 \
+sim:/file_reg_tb/A2 \
+sim:/file_reg_tb/A3 \
+sim:/file_reg_tb/WD \
+sim:/file_reg_tb/We \
+sim:/file_reg_tb/RD1 \
+sim:/file_reg_tb/RD2
+# **** Error: LoadCompleteQ cmd: Transcript::ViewSimPanes sim
+# ****        Bad sequence in.main_pane.structure.interior.cs.body.struct.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+# Bad sequence in.main_pane.structure.interior.cs.body.struct.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+#     while executing
+# "Structure::CreateWindow $dataset_name"
+#     (procedure "Transcript::ViewSimPanes" line 28)
+#     invoked from within
+# "Transcript::ViewSimPanes sim"
+#     ("eval" body line 1)
+#     invoked from within
+# "eval $p $tankNamespace "
+run -all
+# ** Note: $finish    : C:/Users/simin/Desktop/CA/CAs/CA2/file_reg.sv(77)
+#    Time: 160 ps  Iteration: 0  Instance: /file_reg_tb
+# 1
+# Break in Module file_reg_tb at C:/Users/simin/Desktop/CA/CAs/CA2/file_reg.sv line 77
+# Compile of adder.sv was successful.
+# Compile of ALU.sv was successful.
+# Compile of Controller.sv was successful.
+# Compile of datapath.sv was successful.
+# Compile of file_reg.sv was successful.
+# Compile of imm_extend.sv was successful.
+# Compile of inst_mem.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of PC.sv was successful.
+# Compile of Processor.sv was successful.
+# 10 compiles, 0 failed with no errors.
+# Compile of inst_mem.sv was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.file_reg_tb
+# Loading work.file_reg
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $finish    : C:/Users/simin/Desktop/CA/CAs/CA2/file_reg.sv(77)
+#    Time: 160 ps  Iteration: 0  Instance: /file_reg_tb
+# 1
+# Break in Module file_reg_tb at C:/Users/simin/Desktop/CA/CAs/CA2/file_reg.sv line 77
+# End time: 14:32:15 on Nov 30,2024, Elapsed time: 0:08:29
+# Errors: 0, Warnings: 1

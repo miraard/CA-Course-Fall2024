@@ -1,0 +1,40 @@
+C:/Users/simin/Desktop/CA/CAs/CA1/Datapath.sv {1 {vlog -work work -sv -stats=none {C:\Users\simin\Desktop\CA\CAs\CA1\Datapath.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+-- Compiling module datapath_tb
+
+Top level modules:
+	datapath_tb
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA1/TopLevel.sv {1 {vlog -work work -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA1/TopLevel.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EightQueensSolver
+
+Top level modules:
+	EightQueensSolver
+
+} {} {}} C:/intelFPGA/20.1/Controller.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/20.1/Controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EightQueensController
+-- Compiling module EightQueensControllerTestbench
+
+Top level modules:
+	EightQueensControllerTestbench
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA1/isSafeChecker.sv {1 {vlog -work work -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA1/isSafeChecker.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NQueens
+
+Top level modules:
+	NQueens
+
+} {} {}} C:/Users/simin/Desktop/CA/CAs/CA1/Equations_&_Registers.sv {1 {vlog -work work -sv -stats=none C:/Users/simin/Desktop/CA/CAs/CA1/Equations_&_Registers.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module random_pi_generator
+-- Compiling module location_initializer
+-- Compiling module location_initializer_tb
+
+Top level modules:
+	location_initializer_tb
+
+} {} {}}

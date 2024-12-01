@@ -1,0 +1,136 @@
+$date
+	Sun Nov 03 00:53:23 2024
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module location_initializer_tb $end
+
+$scope module uut $end
+$var reg 8 ! i [7:0] $end
+$var reg 8 " j [7:0] $end
+$var reg 8 # p [7:0] $end
+$var reg 4 $ x [3:0] $end
+
+$scope function calculate_j_i $end
+$var reg 8 % p_input [7:0] $end
+$upscope $end
+$upscope $end
+
+$scope module rpi $end
+$var parameter 32 & NUM_PI_VALUES $end
+$var reg 65 ' used [64:0] $end
+$var integer 32 ( count $end
+
+$scope function generate_unique_random_number $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1001 !
+b111000 "
+b111010 #
+b111 $
+b111010 %
+b1000000000000000000000000000000000000000000000000000000000 '
+b1000000 &
+b1 (
+$end
+#10
+b1000000000000000001000000000000000000000000000000000000000 '
+b10 (
+b101000 %
+b101000 #
+b1 !
+b101 $
+b100001 "
+b10 !
+b100010 "
+b11 !
+b100011 "
+b100 !
+b100100 "
+b101 !
+b100101 "
+b110 !
+b100110 "
+b111 !
+b100111 "
+b1000 !
+b101000 "
+b1001 !
+#20
+b1010000000000000001000000000000000000000000000000000000000 '
+b11 (
+b111000 %
+b111000 #
+b1 !
+b111 $
+b110001 "
+b10 !
+b110010 "
+b11 !
+b110011 "
+b100 !
+b110100 "
+b101 !
+b110101 "
+b110 !
+b110110 "
+b111 !
+b110111 "
+b1000 !
+b111000 "
+b1001 !
+#30
+b1010000000000000001000000000000000000000000000000010000000 '
+b100 (
+b1000 %
+b1000 #
+b1 !
+b1 $
+b1 "
+b10 !
+b10 "
+b11 !
+b11 "
+b100 !
+b100 "
+b101 !
+b101 "
+b110 !
+b110 "
+b111 !
+b111 "
+b1000 !
+b1000 "
+b1001 !
+#40
+b1010001000000000001000000000000000000000000000000010000000 '
+b101 (
+b110100 %
+b110100 #
+b1 !
+b110 $
+b101001 "
+b10 !
+b101010 "
+b11 !
+b101011 "
+b100 !
+b101100 "
+b101 !
+b101101 "
+b110 !
+b101110 "
+b111 !
+b101111 "
+b1000 !
+b110000 "
+b1001 !

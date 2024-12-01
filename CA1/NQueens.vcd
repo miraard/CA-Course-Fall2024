@@ -1,0 +1,14 @@
+$date
+	Sat Nov 02 12:59:47 2024
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ns
+$end
+
+$scope module NQueens $end
+$var parameter 32 ! N $end
+
+$scope function isSafe $end

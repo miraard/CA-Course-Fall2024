@@ -1,0 +1,22 @@
+$date
+	Sat Nov 30 19:22:15 2024
+$end
+$version
+	QuestaSim Version 2024.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module tbP $end
+
+$scope module data_mem_mod $end
+$upscope $end
+
+$scope module inst_mem_mod $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+$end
